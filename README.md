@@ -39,8 +39,13 @@ I'm an Indian Data Analyst and AI/ML Enthusiast learning and documenting my lear
   <a href="https://github.com/journeytoday?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/journeytoday?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  </p>
+ 
+ ## 💫 About Me:
+🔭 I’m currently working on **Data Engineering Projects, Datasets from Maven Analytics**<br><br>🌱 I’m currently learning **Statistics and Machine Learning**<br><br> 🤝 I’m looking for help with **Statistics and E2E Data Engineering**<br><br> 📝 I regularly write articles on [https://medium.com/@thejourneystoday](https://medium.com/@thejourneystoday)<br><br> 💬 Ask me about **SQl, Power Bi, Tableau, Excel**<br><br> 📫 How to reach me **thejourneystoday@gmail.com**<br><br> ⚡ Fun fact **I am someone who will try to eat anything spicy even if it makes my eyes burn**
 
-### 🧰 Languages and tools I learnt over the years
+
+
+## 🧰 Languages and tools I learnt over the years:
 
 #### Data Science and Analytics 
  
@@ -78,3 +83,23 @@ I'm an Indian Data Analyst and AI/ML Enthusiast learning and documenting my lear
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+  <h3>🔥 Streak Stats</h3>
+  
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+![](https://github-readme-stats.vercel.app/api?username=journeytoday&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=journeytoday&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=journeytoday&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+ 
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+ 
+
+ 
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
