@@ -105,4 +105,4 @@ I'm an Indian Data Analyst and AI/ML Enthusiast learning and documenting my lear
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="journeytoday's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=journeytoday&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+ [ <h3>⚡ Recent GitHub Activity</h3>](https://github-readme-activity-graph.cyclic.app/graph/?username=journeytoday&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
