@@ -88,18 +88,21 @@ I'm an Indian Data Analyst and AI/ML Enthusiast learning and documenting my lear
   
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-![](https://github-readme-stats.vercel.app/api?username=journeytoday&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=journeytoday&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=journeytoday&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=journeytoday&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=journeytoday&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
  
 
-  <h3>💻 GitHub Profile Stats</h3>
 
  
 
  
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="journeytoday's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=journeytoday&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
