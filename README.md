@@ -1,5 +1,5 @@
 
-# 🏄‍♂️<a href="https://www.flaticon.com/free-animated-icons/love" title="love animated icons">Love animated icons created by Freepik - Flaticon</a> Forrest Knight
+# 🏄‍♂️<a href="https://www.flaticon.com/free-animated-icons/love"></a> Forrest Knight
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
