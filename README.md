@@ -1,3 +1,10 @@
+
+# Hi, I am Rohit Rakesh ![smile (2)](https://user-images.githubusercontent.com/130208248/230728185-c9965c81-3d97-44b0-9460-3eafebbd2e02.png)  
+**`Data Lover (Data Analyst and AI/ML Enthusiat)`**
+
+I'm an Indian Data Analyst and AI/ML Enthusiast learning and documenting my learning journey in this digital world one step at a time. All  projects are built from the ground up, utilizing various available resources including information required for planning and designing all the way to solving real-life problems with code. All video content is documented in the same way, from ideation and planning, all the way to finalizing the content . I publish that content on my Medium blog. 
+
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -32,3 +39,6 @@
   <a href="https://github.com/journeytoday?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/journeytoday?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  </p>
+
+
+  
